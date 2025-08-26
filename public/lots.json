@@ -1,0 +1,32 @@
+[
+  {
+    "lotId": "L1",
+    "name": "Union Garage",
+    "capacity": 120,
+    "timezone": "America/Los_Angeles",
+    "location": {
+      "lat": 37.7879,
+      "lng": -122.4074
+    }
+  },
+  {
+    "lotId": "L2",
+    "name": "Downtown Central",
+    "capacity": 85,
+    "timezone": "America/Los_Angeles",
+    "location": {
+      "lat": 37.7851,
+      "lng": -122.409
+    }
+  },
+  {
+    "lotId": "L3",
+    "name": "Riverside Lot",
+    "capacity": 200,
+    "timezone": "America/Los_Angeles",
+    "location": {
+      "lat": 37.792,
+      "lng": -122.399
+    }
+  }
+]
